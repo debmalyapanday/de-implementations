@@ -4,7 +4,7 @@ Imagine reading complex or niche file formats — like **PDFs** — directly int
 
 The notebook in this directory contains an implementation of `spark.read.format('pdf')` data source. It uses **pdfplumber** as the underlying PDF parsing tool.
 
-#### Sample PDF Used
+
 
 The sample PDF used for testing this implementation is:
 
